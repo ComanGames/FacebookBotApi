@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookBotApi", "FacebookBotApi\FacebookBotApi.csproj", "{E651A315-BAE8-4261-AE98-DA547C7AF610}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest", "ApiTest\ApiTest.csproj", "{F6AE7B8C-446A-4127-9341-BFDCE286F4E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E651A315-BAE8-4261-AE98-DA547C7AF610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E651A315-BAE8-4261-AE98-DA547C7AF610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E651A315-BAE8-4261-AE98-DA547C7AF610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AE7B8C-446A-4127-9341-BFDCE286F4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AE7B8C-446A-4127-9341-BFDCE286F4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AE7B8C-446A-4127-9341-BFDCE286F4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AE7B8C-446A-4127-9341-BFDCE286F4E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
